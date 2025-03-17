@@ -17,7 +17,7 @@ function agregarAmigo() {
         }
 
         // Validar que sea un nombre (solo letras y espacios)
-        if (!/^[a-zA-Z\s]+$/.test(nombreAmigo)) {
+        if (!/^[A-Za-zÁÉÍÓÚáéíóúÑñ\s]+$/.test(nombreAmigo)) {
             throw new Error("Por favor, inserte solo letras en el nombre");
         }
 

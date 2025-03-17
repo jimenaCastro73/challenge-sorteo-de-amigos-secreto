@@ -34,3 +34,7 @@ Una aplicación web interactiva que permite organizar sorteos de amigo secreto d
 - Selección aleatoria de nombres
 - Prevención de duplicados en el sorteo
 - Mensaje claro con el resultado
+
+### Reiniciar el Sorteo
+- Limpieza de la lista de Amigos
+- Se habilita el botón reiniciar una vez sorteados todos los amigos
