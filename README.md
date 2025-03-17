@@ -21,7 +21,18 @@ Una aplicación web interactiva que permite organizar sorteos de amigo secreto d
 1. Ingresa el nombre de un amigo en el campo de texto
 2. Haz clic en "Añadir" para agregarlo a la lista
 3. Repite el proceso para agregar más amigos
-4. Cuando estés listo, haz clic en "Sortear amigo" para seleccionar un amigo aleatorio
+
+![Añadiendo Amigos a la lista](https://github.com/user-attachments/assets/aa1c3aa0-fb67-4b97-9aa9-b93a739fa596)
+
+5. Cuando estés listo, haz clic en "Sortear amigo" para seleccionar un amigo aleatorio
+
+![Sortear Amigos de la lista](https://github.com/user-attachments/assets/ca65bfdc-d7f2-4470-8aec-115fc3daf701)
+
+
+6. Reinicia el sorteo, si deseas jugar con otro set de amigos!
+
+![Reiniciar Sorteo de Amigo Secreto](https://github.com/user-attachments/assets/e99a8784-4f9e-442a-8305-f924fb9ff691)
+
 
 ## ✨ Funcionalidades Principales
 
