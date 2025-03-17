@@ -16,9 +16,9 @@ function agregarAmigo() {
             throw new Error("Por favor, inserte un nombre válido");
         }
 
-        // Validar que sea un nombre (solo letras y espacios)
+        // Validar que sea un nombre o apellido válido (solo letras
         if (!/^[A-Za-zÁÉÍÓÚáéíóúÑñ\s]+$/.test(nombreAmigo)) {
-            throw new Error("Por favor, inserte solo letras en el nombre");
+            throw new Error("Por favor, ingrese un nombre o apellido válido.");
         }
 
         // Si pasa las validaciones, agregar a la lista
