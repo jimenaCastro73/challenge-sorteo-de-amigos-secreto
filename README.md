@@ -22,17 +22,17 @@ Una aplicación web interactiva que permite organizar sorteos de amigo secreto d
 2. Haz clic en "Añadir" para agregarlo a la lista
 3. Repite el proceso para agregar más amigos
 
-[![Añadiendo Amigos a la lista](https://raw.githubusercontent.com/jimenaCastro73/challenge-sorteo-de-amigos-secreto/main/assets/adicion.gif)](https://raw.githubusercontent.com/jimenaCastro73/challenge-sorteo-de-amigos-secreto/main/assets/adicion.gif)
+![Añadiendo Amigos a la lista](https://raw.githubusercontent.com/jimenaCastro73/challenge-sorteo-de-amigos-secreto/main/assets/adicion.gif)
 
 
 4. Cuando estés listo, haz clic en "Sortear amigo" para seleccionar un amigo aleatorio
 
-[![Sortear Amigos de la lista](https://raw.githubusercontent.com/jimenaCastro73/challenge-sorteo-de-amigos-secreto/main/assets/sorteo.gif)](https://raw.githubusercontent.com/jimenaCastro73/challenge-sorteo-de-amigos-secreto/main/assets/sorteo.gif)
+![Sortear Amigos de la lista](https://raw.githubusercontent.com/jimenaCastro73/challenge-sorteo-de-amigos-secreto/main/assets/sorteo.gif)
 
 
 5. Reinicia el sorteo, si deseas jugar con otro set de amigos!
 
-[![Reiniciar Sorteo de Amigo Secreto](https://raw.githubusercontent.com/jimenaCastro73/challenge-sorteo-de-amigos-secreto/main/assets/reinicio.gif)](https://raw.githubusercontent.com/jimenaCastro73/challenge-sorteo-de-amigos-secreto/main/assets/reinicio.gif)
+![Reiniciar Sorteo de Amigo Secreto](https://raw.githubusercontent.com/jimenaCastro73/challenge-sorteo-de-amigos-secreto/main/assets/reinicio.gif)
 
 
 ## ✨ Funcionalidades Principales
