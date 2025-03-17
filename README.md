@@ -1,4 +1,4 @@
-# 🎁 Amigo Secreto
+# 🎁 Amigo Secreto - Challenge ONE
 
 Una aplicación web interactiva que permite organizar sorteos de amigo secreto de manera fácil y divertida.
 
